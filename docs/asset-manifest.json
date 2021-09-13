@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.a617e044.chunk.css",
-    "main.js": "/static/js/main.54e08f42.chunk.js",
-    "main.js.map": "/static/js/main.54e08f42.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.fa089ce8.js",
-    "runtime-main.js.map": "/static/js/runtime-main.fa089ce8.js.map",
-    "static/js/2.7132791a.chunk.js": "/static/js/2.7132791a.chunk.js",
-    "static/js/2.7132791a.chunk.js.map": "/static/js/2.7132791a.chunk.js.map",
-    "static/js/3.492fc95b.chunk.js": "/static/js/3.492fc95b.chunk.js",
-    "static/js/3.492fc95b.chunk.js.map": "/static/js/3.492fc95b.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.7132791a.chunk.js.LICENSE.txt": "/static/js/2.7132791a.chunk.js.LICENSE.txt"
+    "main.css": "/lkong-faq/static/css/main.a617e044.chunk.css",
+    "main.js": "/lkong-faq/static/js/main.54e08f42.chunk.js",
+    "main.js.map": "/lkong-faq/static/js/main.54e08f42.chunk.js.map",
+    "runtime-main.js": "/lkong-faq/static/js/runtime-main.0e89300a.js",
+    "runtime-main.js.map": "/lkong-faq/static/js/runtime-main.0e89300a.js.map",
+    "static/js/2.7132791a.chunk.js": "/lkong-faq/static/js/2.7132791a.chunk.js",
+    "static/js/2.7132791a.chunk.js.map": "/lkong-faq/static/js/2.7132791a.chunk.js.map",
+    "static/js/3.492fc95b.chunk.js": "/lkong-faq/static/js/3.492fc95b.chunk.js",
+    "static/js/3.492fc95b.chunk.js.map": "/lkong-faq/static/js/3.492fc95b.chunk.js.map",
+    "index.html": "/lkong-faq/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/lkong-faq/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.7132791a.chunk.js.LICENSE.txt": "/lkong-faq/static/js/2.7132791a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.fa089ce8.js",
+    "static/js/runtime-main.0e89300a.js",
     "static/js/2.7132791a.chunk.js",
     "static/css/main.a617e044.chunk.css",
     "static/js/main.54e08f42.chunk.js"
