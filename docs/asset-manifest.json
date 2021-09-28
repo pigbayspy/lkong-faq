@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.js": "/lkong-faq/static/js/main.80e9b49c.chunk.js",
-    "main.js.map": "/lkong-faq/static/js/main.80e9b49c.chunk.js.map",
+    "main.js": "/lkong-faq/static/js/main.3067aa5d.chunk.js",
+    "main.js.map": "/lkong-faq/static/js/main.3067aa5d.chunk.js.map",
     "runtime-main.js": "/lkong-faq/static/js/runtime-main.b8bc5676.js",
     "runtime-main.js.map": "/lkong-faq/static/js/runtime-main.b8bc5676.js.map",
     "static/css/2.786ae0dd.chunk.css": "/lkong-faq/static/css/2.786ae0dd.chunk.css",
-    "static/js/2.0163905f.chunk.js": "/lkong-faq/static/js/2.0163905f.chunk.js",
-    "static/js/2.0163905f.chunk.js.map": "/lkong-faq/static/js/2.0163905f.chunk.js.map",
+    "static/js/2.3295d59d.chunk.js": "/lkong-faq/static/js/2.3295d59d.chunk.js",
+    "static/js/2.3295d59d.chunk.js.map": "/lkong-faq/static/js/2.3295d59d.chunk.js.map",
     "index.html": "/lkong-faq/index.html",
     "static/css/2.786ae0dd.chunk.css.map": "/lkong-faq/static/css/2.786ae0dd.chunk.css.map",
-    "static/js/2.0163905f.chunk.js.LICENSE.txt": "/lkong-faq/static/js/2.0163905f.chunk.js.LICENSE.txt"
+    "static/js/2.3295d59d.chunk.js.LICENSE.txt": "/lkong-faq/static/js/2.3295d59d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.b8bc5676.js",
     "static/css/2.786ae0dd.chunk.css",
-    "static/js/2.0163905f.chunk.js",
-    "static/js/main.80e9b49c.chunk.js"
+    "static/js/2.3295d59d.chunk.js",
+    "static/js/main.3067aa5d.chunk.js"
   ]
 }
